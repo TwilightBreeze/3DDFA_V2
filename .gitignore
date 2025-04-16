@@ -32,3 +32,4 @@ test_pr*.py
 demo_for_*.py
 examples/**/zou*
 examples/inputs/videos
+MT-Dataset
